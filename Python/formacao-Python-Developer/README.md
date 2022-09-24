@@ -1,12 +1,12 @@
-<h1 style="text-align: center;">Formação Python Developer</h1>
+<h1 align="center">Formação Python Developer</h1>
 
 <h4 align="center"> 
 	🚧  Formação Python Developer 🚀 Em construção...  🚧
 </h4>
 
-<div style="margin: 0 auto; width: 200px">
-    <image src="./.github/cover.webp" />
-</div>
+<h5 align="center">
+    <image  style="width:200px" src="./.github/cover.webp" />
+</h5>
 
 <br>
 
