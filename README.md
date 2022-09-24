@@ -5,5 +5,5 @@
 This is my repo with my study notes.
 
 - [Git](./Git/)
-- [JavaScript](./JavaScript/)
+- [Python](./Python/)
 
