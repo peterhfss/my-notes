@@ -71,7 +71,7 @@ Also following other languages, Python has words reserved, and don't are allowed
 |   as   |    def   |   from  | nonlocal |  while |
 | assert |    del   |  global |    not   |  with  |
 |  async |   elif   |    if   |    or    |  yield |
-|        |          |         |          |        |
+
 
 </div>
 
@@ -97,9 +97,3 @@ comment
 
 ```
 
-> All texts inserted in comments will be ignored by the interpreter Python
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
